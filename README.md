@@ -2,24 +2,25 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# Changing weekly menus
 
 Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+Weekly menus make it easy to plan your meals for the week. When you plan your menus well in advance, you may well eat leftovers from the previous day for several days or continue the next day’s meal with them. With the help of the menu, you plan varied and affordable meals for each day of the week. For example, planning a week’s meals in advance saves time and effort. The basic ingredients can be obtained on a single shopping trip and replenished with fresh produce during the week.
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+The six-week menu is designed according to the main ingredient. There is planned one main meal a day is planned for the  list, as usually the second meal is eaten at the school, or workplace. The menu becomes varied, as vegetarian, fish, meat and other dishes alternate on different days of the week. The menu gives you plenty of choice as the recipes can vary according to your preference. The menu is designed so that on weekends the same food is eaten for lunch as for the previous day’s dinner. This reduces cooking work.
 
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
+The benefits of weekly planning:
+* Save time
+* Reduce food waste
+* Helps you eat healthier
 
+Often on one- or three-week menus, the rotation of the same portions of food begins to get tired, and six-week menus provide more options.
 
 ## How is it used?
 
