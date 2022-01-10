@@ -9,6 +9,8 @@ Final project for the Building AI course
 ## Summary
 
 Weekly menus make it easy to plan your meals for the week. When you plan your menus well in advance, you may well eat leftovers from the previous day for several days or continue the next day’s meal with them. With the help of the menu, you plan varied and affordable meals for each day of the week. For example, planning a week’s meals in advance saves time and effort. The basic ingredients can be obtained on a single shopping trip and replenished with fresh produce during the week.
+This project
+This project utilizes @VRN sites and images as well as @Martat sites menus in design
 
 
 ## Background
@@ -24,11 +26,12 @@ Often on one- or three-week menus, the rotation of the same portions of food mig
 
 ## How is it used?
 
-The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare todayDescribe the process of using the solution. 
+The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare today" 
 
 <img src="https://www.ruokavirasto.fi/globalassets/teemat/terveytta-edistava-ruokavalio/kuluttaja-ja-ammattilaismateriaali/kuva-arkisto/lautasmalli_rgb_lores-2.jpg" width="300">
-Kuvan lähde: ©Valtion ravitsemusneuvottelukunta tai ©VRN (Valtion ravitsemusneuvottelukunnan julkaisemia kuvia saa käyttää vapaasti, kunhan lähde
-mainitaan)
+Image source: © State Nutrition Advisory Board or © VRN (Images published by the State Nutrition Advisory Board may be used freely as long as the source
+mentioned)
+The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app never provides the same list for the weeks before or after, but the range is always six weeks.
 
 For example, the code could be:
 ```
@@ -61,7 +64,7 @@ If you need to use links, here's an example:
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The project does not pay much attention to the need for a special diet, so you have to invent the variations yourself. The app also does not take into account the age or other individual needs of the user as the app is based on adult food recommendations.
 
 ## What next?
 
