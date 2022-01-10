@@ -26,10 +26,9 @@ Often on one- or three-week menus, the rotation of the same portions of food mig
 
 The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare todayDescribe the process of using the solution. 
 
-https://images.app.goo.gl/MWmmGUfgNkcd1wGg7
+<img src="https://images.app.goo.gl/MWmmGUfgNkcd1wGg7" width="300">
 Kuvan lähde: ©Valtion ravitsemusneuvottelukunta tai ©VRN (Valtion ravitsemusneuvottelukunnan julkaisemia kuvia saa käyttää vapaasti, kunhan lähde
 mainitaan)
-
 
 For example, the code could be:
 ```
