@@ -36,8 +36,11 @@ The application asks the user for the week for which the user wants a list, like
 ```
 For example, the code could be:
 
-week = int(input("Give a week:")
-
+nw = int(input("Give a week:") #nw is number of a week, that user gives
+weeks = 52
+menu1 = weeks % 6:
+    print("menu1")
+    
 
 
 
