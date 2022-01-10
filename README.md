@@ -20,11 +20,11 @@ The benefits of weekly planning:
 * Reduce food waste
 * Helps you eat healthier
 
-Often on one- or three-week menus, the rotation of the same portions of food begins to get tired, and six-week menus provide more options.
+Often on one- or three-week menus, the rotation of the same portions of food might get a bit boring, and six-week menus provide more options.
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare todayDescribe the process of using the solution. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -33,7 +33,7 @@ Once you upload an image to your repository, you can link link to it like this (
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-This is how you create code examples:
+For example, the code could be:
 ```
 def main():
    countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
