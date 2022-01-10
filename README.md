@@ -26,12 +26,10 @@ Often on one- or three-week menus, the rotation of the same portions of food mig
 
 The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare todayDescribe the process of using the solution. 
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+https://images.app.goo.gl/MWmmGUfgNkcd1wGg7
+Kuvan lähde: ©Valtion ravitsemusneuvottelukunta tai ©VRN (Valtion ravitsemusneuvottelukunnan julkaisemia kuvia saa käyttää vapaasti, kunhan lähde
+mainitaan)
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 For example, the code could be:
 ```
