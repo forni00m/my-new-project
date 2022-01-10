@@ -29,8 +29,7 @@ Often on one- or three-week menus, the rotation of the same portions of food mig
 The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare today" 
 
 <img src="https://www.ruokavirasto.fi/globalassets/teemat/terveytta-edistava-ruokavalio/kuluttaja-ja-ammattilaismateriaali/kuva-arkisto/lautasmalli_rgb_lores-2.jpg" width="300">
-Image source: © State Nutrition Advisory Board or © VRN (Images published by the State Nutrition Advisory Board may be used freely as long as the source
-mentioned)
+
 The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app never provides the same list for the weeks before or after, but the range is always six weeks.
 
 For example, the code could be:
@@ -67,14 +66,14 @@ If you need to use links, here's an example:
 The project does not pay much attention to the need for a special diet, so you have to invent the variations yourself. The app also does not take into account the age or other individual needs of the user as the app is based on adult food recommendations.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The app should be developed to provide daily recipes. The amounts and ingredients in the recipes should also be user-friendly depending on whether two or ten people are eating.
+It would also be user-friendly if the app showed the nutritional content of the week’s foods on a daily basis.
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+* @Martat, @VRN, https://buildingai.elementsofai.com/Conclusion/ai-idea-gallery
+* @datqn7444 thanks for inspiration!
+* Image source: © State Nutrition Advisory Board or © VRN (Images published by the State Nutrition Advisory Board may be used freely as long as the source
+mentioned)
+* 
