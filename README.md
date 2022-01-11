@@ -36,15 +36,22 @@ The application asks the user for the week for which the user wants a list, like
 ```
 For example, the code could be:
 
-nw = int(input("Give a week:") #nw is number of a week, that user gives
-weeks = 52
-menu1 = weeks % 6:
-    print("menu1")
+menu = 0
+week_before = 0
+
+print("Please, give week between 1-52")
+
+while True:
+    week = int(input("Give a week: ")
+    menu = menu + week
+    number = week
+    if week >= 52 or week = week_before:
+        break
+    week_before = week
+ print("This week`s Menu is:", week)
+
     
-
-
-
-    # prints next weeks menu, sample week with recipes can be printed by entering "0" for the week´´
+    # prints week´´
 ```
 
 ## Data sources and AI methods
