@@ -39,6 +39,7 @@ For example, the code could be:
 menu = 0
 week_before = 0
 
+
 print("Please, give week between 1-52")
 
 while True:
