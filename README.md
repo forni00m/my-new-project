@@ -32,7 +32,7 @@ The six-week menu could be an app for everyone, but especially the target group 
 
 The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app never provides the same list for the weeks before or after, but the range is always six weeks.
 
-Näyttökuva 2022-01-12 kello 12.47.08![kuva](https://user-images.githubusercontent.com/97443916/149127772-7d4ea9df-baec-483c-9102-e92384ac5ef6.png)
+![kuva](https://user-images.githubusercontent.com/97443916/149127772-7d4ea9df-baec-483c-9102-e92384ac5ef6.png)
 
 
 
