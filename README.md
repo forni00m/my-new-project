@@ -26,11 +26,11 @@ Often on one- or three-week menus, the rotation of the same portions of food mig
 
 ## How is it used?
 
-The six-week menu could be an app for everyone, but especially the target group would be people who have to think "what food would I prepare today" 
+The six-week menu could be an app for everyone, but especially the target group would be people who have to think everyday "what food would I prepare today". 
 
 <img src="https://www.ruokavirasto.fi/globalassets/teemat/terveytta-edistava-ruokavalio/kuluttaja-ja-ammattilaismateriaali/kuva-arkisto/lautasmalli_rgb_lores-2.jpg" width="300">
 
-The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app provides the random lists.
+The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. The app provides the random lists.
 
 ![kuva](https://user-images.githubusercontent.com/97443916/149127772-7d4ea9df-baec-483c-9102-e92384ac5ef6.png)
 
@@ -65,7 +65,7 @@ while True:
 ```
 
 ## Data sources and AI methods
-As a source of information, the app would have a six-week changing menu entered in the background. AI methods: Since I wrote a code that asks the user between 1-52 a week and draws the next one from the menus based on it, I would think it was a supervised learning. 
+As a source of information, the app would have a six-week changing menu entered in the background. AI methods: Since I wrote a code that asks the user between 1-52 a week and draws the next one from the menus based on it, I would think it was a supervised learning. The code also makes "decisions" on behalf of the user by always selecting a random menu for the week the user enters.
 
 ## Challenges
 
@@ -82,4 +82,4 @@ It would also be user-friendly if the app showed the nutritional content of the 
 * @datqn7444 thanks for inspiration!
 * Image source: © State Nutrition Advisory Board or © VRN (Images published by the State Nutrition Advisory Board may be used freely as long as the source
 mentioned)
-* Thanks also for the support: @twigthecode community
+* Thanks also for the support: @twigthecode community!
