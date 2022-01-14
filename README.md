@@ -63,7 +63,7 @@ while True:
 ```
 
 ## Data sources and AI methods
-As a source of information, the app would have a six-week changing menu entered in the background. AI methods: 
+As a source of information, the app would have a six-week changing menu entered in the background. AI methods: Since I wrote a code that asks the user between 1-52 a week and draws the next one from the menus based on it, I would think it was a supervised learning. 
 
 ## Challenges
 
@@ -80,4 +80,4 @@ It would also be user-friendly if the app showed the nutritional content of the 
 * @datqn7444 thanks for inspiration!
 * Image source: © State Nutrition Advisory Board or © VRN (Images published by the State Nutrition Advisory Board may be used freely as long as the source
 mentioned)
-* 
+* Thanks also for the support: @twigthecode community
