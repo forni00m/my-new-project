@@ -30,7 +30,7 @@ The six-week menu could be an app for everyone, but especially the target group 
 
 <img src="https://www.ruokavirasto.fi/globalassets/teemat/terveytta-edistava-ruokavalio/kuluttaja-ja-ammattilaismateriaali/kuva-arkisto/lautasmalli_rgb_lores-2.jpg" width="300">
 
-The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app never provides the same list for the weeks before or after, but the range is always six weeks.
+The application asks the user for the week for which the user wants a list, like week 45. The application prints (displays) a list with recipes for that week. the app provides the random lists.
 
 ![kuva](https://user-images.githubusercontent.com/97443916/149127772-7d4ea9df-baec-483c-9102-e92384ac5ef6.png)
 
@@ -38,24 +38,28 @@ The application asks the user for the week for which the user wants a list, like
 
 ```
 For example, the code could be:
+print("Anna viikko väliltä 1-52")
+menu1 = ['1']
+menu2 = ['2']
+menu3 = ['3']
+menu4 = ['4']
+menu5 = ['5']
+menu6 = ['6']
 
-menu = 0
+lista = [1, 2, 3, 4, 5, 6]
+
 week_before = 0
 
-
-print("Please, give week between 1-52")
-
 while True:
-    week = int(input("Give a week: ")
-    menu = menu + week
-    number = week
-    if week >= 52 or week = week_before:
+    week = int(input("Anna viikko: "))
+    menu = week + len(lista)
+    if week >= 52 or week == week_before:
         break
-    week_before = week
- print("This week`s Menu is:", week)
+    if week <= 52:
+        print("Valitsemasi viikko on:", week)
+    from random import choice
+    print("Menu is:",choice(lista))
 
-    
-    # prints week´´
 ```
 
 ## Data sources and AI methods
