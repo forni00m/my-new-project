@@ -72,10 +72,8 @@ As a source of information, the app would have a six-week changing menu entered 
 The project does not pay much attention to the need for a special diet, so you have to invent the variations yourself. The app also does not take into account the age or other individual needs of the user as the app is based on adult food recommendations.
 
 ## What next?
-The app should be developed to provide daily recipes. The amounts and ingredients in the recipes should also be user-friendly depending on whether two or ten people are eating.
+The application should be developed so that it also prints all week recipes if the user so wishes. Also, the amounts and ingredients in recipes should be user-friendly depending on whether two or ten people eat.
 It would also be user-friendly if the app showed the nutritional content of the week’s foods on a daily basis.
-
-
 ## Acknowledgments
 
 * @Martat, @VRN, https://buildingai.elementsofai.com/Conclusion/ai-idea-gallery
