@@ -38,7 +38,9 @@ The application asks the user for the week for which the user wants a list, like
 
 ```
 For example, the code could be:
+
 print("Anna viikko väliltä 1-52")
+
 menu1 = ['1']
 menu2 = ['2']
 menu3 = ['3']
@@ -46,19 +48,19 @@ menu4 = ['4']
 menu5 = ['5']
 menu6 = ['6']
 
-lista = [1, 2, 3, 4, 5, 6]
+lists = [1, 2, 3, 4, 5, 6]
 
 week_before = 0
 
 while True:
-    week = int(input("Anna viikko: "))
-    menu = week + len(lista)
+    week = int(input("Give a week: "))
+    menu = week + len(lists)
     if week >= 52 or week == week_before:
         break
     if week <= 52:
-        print("Valitsemasi viikko on:", week)
+        print("the week you selected is:", week)
     from random import choice
-    print("Menu is:",choice(lista))
+    print("Menu is:",choice(lists))
 
 ```
 
